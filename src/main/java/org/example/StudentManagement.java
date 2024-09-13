@@ -1,3 +1,5 @@
+//StudentManagementクラス（StudentManagement.java）: 学生の追加、削除、点数更新、
+// 平均点計算、全学生表示などのクラス
 package org.example;
 
 import java.util.ArrayList;

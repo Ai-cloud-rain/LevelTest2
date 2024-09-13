@@ -1,4 +1,5 @@
-package org.example;
+//Mainクラス(Main.java):学生を管理するためのメニューなど
+    package org.example;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

@@ -1,3 +1,4 @@
+//Studentクラス（Student.java）: 学生の名前と点数を保持するクラス
 package org.example;
 
 public class Student {
